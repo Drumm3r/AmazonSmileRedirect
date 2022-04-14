@@ -8,6 +8,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @run-at       document-start
+// @license      CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 // ==/UserScript==
 
 (function() {
