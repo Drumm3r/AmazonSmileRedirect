@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon Smile Redirect
 // @namespace    https://schoenenborn.info/
-// @version      1.0.0
+// @version      1.0.1
 // @description  A simple but universal tapermonkey script to redirect to Amazon Smile
 // @author       Daniel Schönenborn
 // @include      https://www.amazon.*/*
